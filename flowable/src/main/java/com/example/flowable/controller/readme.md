@@ -36,3 +36,7 @@ http://localhost:8080/flow/create2
 
 复现来源
 [Flowable_书山登峰人的博客-CSDN博客](https://blog.csdn.net/houyj1986/category_8556408.html)
+
+
+宏观了解
+https://xie.infoq.cn/article/446fbaeb20d269b544aedb847
