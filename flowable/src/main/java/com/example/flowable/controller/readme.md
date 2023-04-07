@@ -40,3 +40,20 @@ http://localhost:8080/flow/create2
 
 宏观了解
 https://xie.infoq.cn/article/446fbaeb20d269b544aedb847
+
+
+
+
+##########
+表单任务
+魏:
+localhost:8080/flowForm/start?processKey=leave_key&days=4&reason=我要去打怪兽维护世界和平
+
+魏:
+http://localhost:8080/flowForm/create
+
+魏:
+http://localhost:8080/flowForm/getForm?taskId=
+
+魏:
+http://localhost:8080/flowForm/complete?taskId=
